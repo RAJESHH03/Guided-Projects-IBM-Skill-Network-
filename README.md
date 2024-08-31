@@ -1,3 +1,3 @@
 # some_excercise &
 #( final_project)
-the project is the part of my course. which is IBM data science skill link
+These are some of my projects, a few of them are part of the IBM Data Science course.
